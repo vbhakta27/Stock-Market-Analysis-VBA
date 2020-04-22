@@ -8,6 +8,8 @@ Created a script that looped through all the stocks for every worksheet, every y
 
 Each stock worksheet initially contained the ticker symbol, date, open price,	high price,	low price, close price, and volume for that day. 
 
+![](/VBAMarket/Original_Stock_Data.png)
+
 The script has conditional formatting that will highlight positive change in green and negative change in red. It also returns the stock with the "Greatest % increase", "Greatest % Decrease", and "Greatest total volume".
 
 Below are the results of the VBA script.
